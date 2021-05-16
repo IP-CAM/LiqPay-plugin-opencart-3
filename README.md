@@ -3,6 +3,27 @@ plugin-opencart
 
 LiqPay Checkout plugin for opencart CMS since 2.x
 
+#### To install the module, copy it to the directory: ####
+
+`` ``
+<OpenCart> / admin /
+<OpenCart> / Catalog /
+`` ``
+
+#### Then in the admin panel, install and configure it: ####
+
+`` ``
+Extensions> Payments> Liqpay Checkout Press [Install]
+`` ``
+
+
+#### To start receiving payments on your site you need: ####
+     - Register at https://www.liqpay.ua
+     - Create a store in your account using a master installation (https://www.liqpay.ua/admin/business)
+     - Get a "Public key" and "Private Key"
+
+-----------------
+
 #### Для установки модуля скопируйте его в каталог: ####
 
 ```
